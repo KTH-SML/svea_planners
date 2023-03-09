@@ -1,6 +1,7 @@
-# svea_pkg
+# svea_planners
 
-This repository is meant to be used as a template for SVEA packages.
+This repository contains various path planners that can be immediately used with
+[svea](https://github.com/kth-sml/svea).
 
 ## Installation
 
@@ -9,10 +10,15 @@ run SVEA software.
 
 ## Usage
 
-This README file is meant to be replaced by something relevant to the package.
+**TBD**
 
-In addition to replacing this README, don't forget to also update the following for your new package:
-- [ ] In `CMakeLists.txt` - project name
-- [ ] In `package.xml`- project name, description, maintainer email, license
-- [ ] In `src` - name of Python source code directory
-- [ ] In `setup.py` - name of packages
+## Roadmap
+
+- [ ] Implement a few (2-3) different basic path planners
+  - A\*
+  - RRT
+  - Reeds-Shepp
+  - ?
+- [ ] Common interface
+- [ ] Helper functions, e.g. smoothing, frenet frame?
+
