@@ -9,8 +9,7 @@ Please refer to [svea](https://github.com/KTH-SML/svea) on how to install and
 run SVEA software.
 
 ## Usage
-
-**TBD**
+Currently only the A* planner is developed and fully functional. To 'rosify' its behaviour, please refer to `planner_interface.py` in the [main svea repo](https://github.com/KTH-SML/svea). A graphical representation of the workflow is given in the following:
 
 ## Roadmap
 
