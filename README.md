@@ -15,10 +15,8 @@ Currently only the A* planner is developed and fully functional. To 'rosify' its
 ## Roadmap
 
 - [ ] Implement a few (2-3) different basic path planners
-  - A\*
   - RRT
   - Reeds-Shepp
   - ?
-- [ ] Common interface
-- [ ] Helper functions, e.g. smoothing, frenet frame?
+- [ ] Helper functions, e.g. different kind of path smoothing, frenet frame
 
